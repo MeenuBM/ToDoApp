@@ -48,15 +48,8 @@ this.setState({
          }
 
           {/* <li>one <i className="fa-solid fa-trash-can"></i></li> */}
-
-          
-          
         </ul>
-
-      
-      </div>
-      
-      
+      </div>          
     )
   }
 }
